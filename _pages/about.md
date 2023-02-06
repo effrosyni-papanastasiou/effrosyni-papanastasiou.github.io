@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Pyramide – Tour 55</p>
     <p>4 Place Jussieu</p>
-    <p>75005 Paris, France 🇫🇷/p>
+    <p>75005 Paris, France 🇫🇷</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
