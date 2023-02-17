@@ -1,4 +1,14 @@
+
 ---
+layout: post
+date: 2022-07-10 05:59:00-0400
+inline: true
+---
+
+🎉 Our paper Opening up echo chambers via optimal content recommendation is accepted for presentation at The 11th International Conference on Complex Networks and their Applications, 8-12 November 2022, Palermo, Italy.
+
+
+<!-- ---
 layout: post
 title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
@@ -29,3 +39,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+ -->
