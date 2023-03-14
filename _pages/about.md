@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Address: 4 Place Jussieu</p>
+    <p>📍4 Place Jussieu</p>
     <p>Pyramide – Tour 55</p>
     <p>75005 Paris, France 🇫🇷</p>
 
