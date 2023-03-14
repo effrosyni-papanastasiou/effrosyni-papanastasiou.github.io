@@ -22,4 +22,4 @@ Hello! I am a PhD student, part of the `MLIA` team of the [ISIR](https://www.isi
 
 I am currently interested in understanding better how online social networks work using the latest optimization techniques.
 
-Feel free to contact me at effrosyni.papanastasiou @ etu.sorbonne-universite.fr .
+You can contact me at effrosyni.papanastasiou @ etu.sorbonne-universite.fr .
