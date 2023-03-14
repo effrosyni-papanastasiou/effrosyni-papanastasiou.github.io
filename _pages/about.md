@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am a PhD student, part of the `MLIA` team of the [ISIR](https://www.isir.upmc.fr/) laboratory of Sorbonne University.
 
-I am currently interested in understanding better how online social networks work using the latest optimization techniques.
+As of now, I'm deeply engaged in exploring the practical applications of graph neural networks (GNNs) for effectively modeling temporal graphs.
 
 You can contact me at effrosyni.papanastasiou @ etu.sorbonne-universite.fr .
